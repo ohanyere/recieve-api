@@ -16,4 +16,4 @@ patches:
   - path: quota-patch.yaml
 images:
   - name: kuberpull/recieve-api
-    newTag: dev
+    newTag: 97fa8d0a78f78d5e59813676508dcbef44b5964e
