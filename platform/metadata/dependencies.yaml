@@ -1,4 +1,4 @@
-service: __SERVICE_NAME__
+service: recieve-api
 runtime:
   - nodejs
   - express
